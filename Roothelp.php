@@ -1,4 +1,16 @@
+
+
 <?php
+#Gathers systeminfo
+#Kernel and distro
+#Files with permission
+#ID
+#Suid files
+#SGUID
+#SYmlinks
+#CPU and processin units
+#Blockdevices
+#Filesystem
 echo "         _______________
         /               \
        /                 \
