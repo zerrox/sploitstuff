@@ -37,5 +37,7 @@ system("./mempo");
 
 
 #This is not fully developed, Develope it for more capabilities!
+#Created by zerrox.
+#z0x - Only few people understand this.
 
 ?>
